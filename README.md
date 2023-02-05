@@ -6,4 +6,4 @@
 🇪🇸 Misión TIC es un programa del gobierno colombiano para aprender a diseñar programas, desarrollando habilidades de programación de software en plataformas y servicios de IBM, Oracle o AWS. Este repositorio contiene prácticas (código, programas, aplicaciones) en diferentes tecnologías.
 
 ## ToolKit
-🇪🇸 El contenido para quien vea los tutoriales en UDEMY puede variar, ya que se propone IDE NetBeans para el desarrollo en Java. El contenido en este repositorio se realiza con IntelliJ IDEA, Java JDK 16, MySQL se han hecho algunas modificaciones para acercarnos a un código con estándares más actualizados.
+🇪🇸 El contenido para quien vea los tutoriales en UDEMY puede variar, ya que se propone IDE NetBeans para el desarrollo en Java. El contenido en este repositorio se realiza con IntelliJ IDEA, Java JDK 16, MySQL se han hecho algunas modificaciones para acercarnos a un código con estándares más actualizados
